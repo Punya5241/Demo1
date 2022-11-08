@@ -2,3 +2,7 @@ head{
     font-size: larger;
     font-weight: bolder;
 }
+body
+{
+    font-style: italic;
+}
